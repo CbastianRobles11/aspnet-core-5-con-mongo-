@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cbass\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cbass\\.nuget\\packages"
+    ]
+  }
+}
